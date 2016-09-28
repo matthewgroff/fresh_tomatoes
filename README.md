@@ -10,7 +10,8 @@ Download or clone the repository:
 `git clone https://github.com/matthewgroff/fresh_tomatoes`
 
 Open terminal or command line and execute the following: 
-`python entertainment_center.py`
+`
+python entertainment_center.py`
 
 
 
